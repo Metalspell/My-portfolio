@@ -29,7 +29,7 @@ const SideBar = () => {
         Frontend React Developer
       </p>
       <a
-        href='https://drive.google.com/file/d/1HNwcSwQyIhUYROwdklelpeliarhioBSq/view?usp=sharing'
+        href='https://drive.google.com/file/d/1Ab9FvlC0Kmbe-42njXccJz7TuZBTClFa/view?usp=sharing'
         target="_blank"
         download='name'
         className='flex items-center justify-center px-2 py-3 mx-8 my-4 uppercase bg-gray-200 rounded-full cursor-pointer bg-400 dark:bg-600/100 bg-light-theme animate-gradient dark:bg-light-theme-v2 dark:animate-gradientV2 dark:bg-dark-200 dark:bg-black-500'
