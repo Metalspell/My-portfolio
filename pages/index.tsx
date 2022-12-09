@@ -3,7 +3,7 @@ import MyStory from "../components/MyStory";
 const Index = () => {
   return (
     <div className="flex flex-col flex-grow px-6 pt-1">
-      <h5 className="p-4 my-3 mt-5 text-base font-medium">
+      <h5 className="p-4 my-3 mt-5 text-base font-medium bg-gray-200 dark:bg-dark-200 dark:bg-black-500 rounded-xl">
         Hello! You have reached the page of an enthusiastic and quite experienced
         (1 year commercial experience) <span className="italic font-semibold">FRONT-END/REACT DEVELOPER.</span>
         I have experience in developing a large site for online poker using

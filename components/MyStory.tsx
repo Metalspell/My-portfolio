@@ -8,7 +8,7 @@ const MyStory = () => {
         How did I end up in IT?
       </h4>
       <div className="my-8">
-        <p className="px-5 text-x1">
+        <p className="px-5 bg-gray-200 text-x1 dark:bg-dark-200 dark:bg-black-500 rounded-xl">
           It's quite a long and confusing story.
           When I was at university, I never thought of linking my destiny with programming. I was full of railway romance and, like my father, wanted to become a railway engineer. In those days it was quite a prestigious profession. However, my ideas about my future job and the reality turned out to be so striking that all romance quickly faded away. Nevertheless, I decided to keep working and build my career. Over time, I began to realize that all my efforts were of no use to anyone, I was not doing what I loved, and I had reached a ceiling in my development, which prompted me to look for another way of life. However, I didn't know what to do. One day my friend, a Ruby programmer, said to me, "Stop whining! Get into programming!" I wasn't at all sure this was what I wanted to do with my life, but I decided to give it a try.
           My first teacher was Codeacademy. After taking a few courses there on HTML, CSS, and JS, I realized that I loved it. And I want more.
